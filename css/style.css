@@ -117,7 +117,7 @@ nav ul a {
 
 nav :nth-child(2) {
     margin-top:0;
-}
+}   
 
 nav a:hover {
   color:#FFF;
